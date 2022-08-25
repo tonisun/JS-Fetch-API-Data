@@ -69,14 +69,13 @@ JS = JavaScript <a href="https://de.wikipedia.org/wiki/JavaScript" target="_blan
 <a href="https://leafletjs.com/" target="_blank">Leaflet</a> = an open-source JavaScript library
 for mobile-friendly interactive maps [<a href="https://de.wikipedia.org/wiki/Leaflet" target="_blank">Wikipedia DE</a>], [<a href="https://leafletjs.com/reference.html" target="_blank">Docs</a>]
 
+##### R
+REST = Representational State Transfer <a href="https://de.wikipedia.org/wiki/Representational_State_Transfer" target="_blank">Wikipedia DE</a>
+
+##### S
+SCN = Satellite Catalog Number
+
 ##### U
 URL = Uniform Resource Locator <a href="https://de.wikipedia.org/wiki/Uniform_Resource_Locator" target="_blank">Wikipedia DE</a>
 
 URI = Uniform Resource Identifier <a href="https://de.wikipedia.org/wiki/Uniform_Resource_Identifier" target="_blank">Wikipedia DE</a>
-
-##### R
-REST = Representational State Transfer <a href="https://de.wikipedia.org/wiki/Representational_State_Transfer" target="_blank">Wikipedia DE</a>
-
-
-##### S
-SCN = Satellite Catalog Number
