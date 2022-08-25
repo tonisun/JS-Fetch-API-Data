@@ -1,7 +1,7 @@
 
 
         let myIcon = L.icon({
-            iconUrl: '/assets/images/International_Space_Station.svg',
+            iconUrl: 'assets/images/International_Space_Station.svg',
             iconSize: [126, 200],
             iconAnchor: [63, 100]
         })

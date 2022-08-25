@@ -20,28 +20,40 @@
     <!-- <link rel="icon" type="image/svg+xml" href="assets/images/sun.svg" sizes="any"> -->
     <link rel="icon" type="image/svg+xml" href="assets/images/favicon.ico">
 
+    <!-- Leafletjs.com Styles -->
+    <link rel="stylesheet" href="node_modules/leaflet/dist/leaflet.css">
+    <!-- Leafletjs.com JS -->
+    <script src="node_modules/leaflet/dist/leaflet.js"></script>
+
     <!--  My Styles -->
-    <link rel="stylesheet" href="/css/styles.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
   
     <!-- Title -->  
-    <title>❤🧡💛💚💙💜🤎🖤🤍 App</title>
+    <title>❤🧡💛💚💙💜🤎🖤🤍 Fetch JSON API Data App</title>
     
 </head>
 <body>
     <header>
-        <h1>Hallo Mars!</h1>
+        <h1>Fetch JSON Data from API and map lat lon</h1>
+
+        <h2>Where ist ISS now ?</h2>
+
+        <h4>Coordinates from ISS now are:</h4>
+        <p>The latitude: <b><span id="lat"></span>°</b></p>
+        <p>The latitude: <b><span id="lon"></span>°</b></p>
     </header>
     
     <main>
-        
+        <div id="issMap">
+
+        </div>
     </main>
     
     <footer>
-        <p> &copy; ... 2022 </p>
+        <p> &copy; egosanto.de 2022 </p>
     </footer>
 
-    <!-- leafletjs.com -->
-    <script src="node_modules/leaflet/dist/leaflet.js"></script>
+    
     <script src="assets/js/index.js"></script>
 </body>
 </html>
