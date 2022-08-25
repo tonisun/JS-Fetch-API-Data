@@ -10,9 +10,7 @@
 ## Intro 
 
 The scientists are funny people. They trying to flatten the earth again? 
-Why all world maps are wrong?
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kIID5FDi2JQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    
+<a href="https://youtu.be/kIID5FDi2JQ" target="">Why all world maps are wrong?</a>                    
 
 
 ## Setup
