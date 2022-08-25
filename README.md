@@ -8,6 +8,8 @@
 
 ```bash
 npm init -y
+
+npm i leaflet --save
 ```
 
 
