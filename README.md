@@ -11,9 +11,7 @@
 For later development of the project I initialize Node App, but it was not used in this project.
 
 ```bash
-npm init -y
-
-npm i leaflet --save
+npm i
 ```
 
 
