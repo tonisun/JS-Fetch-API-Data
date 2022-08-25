@@ -7,12 +7,22 @@
 
 <hr>
 
+## Intro 
+
+The scientists are funny people. They trying to flatten the earth again? 
+Why all world maps are wrong?
+<video width="1115px" height="627px" controls>
+  <source src="https://www.youtube-nocookie.com/embed/kIID5FDi2JQ" type="video/mp4">
+</video>
+
+
 ## Setup
 For later development of the project I initialize Node App, but it was not used in this project.
 
 ```bash
 npm i
 ```
+
 ## Rest API for this App
 
 https://wheretheiss.at/
@@ -53,6 +63,15 @@ https://apis.guru/
 
 
 
+## Development Steps
+
+```bash
+npm init -y
+
+npm i leaflet --save
+
+npm i bootstrap@5.2.0 --save
+```
 
 
 ## Glossary

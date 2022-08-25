@@ -19,7 +19,10 @@
         const attribution = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 
         const tileUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'
-        const tiles = L.tileLayer(tileUrl,{ attribution })
+        const tiles = L.tileLayer( tileUrl, { 
+            maxZoom: 19,
+            attribution: attribution 
+        })
 
         tiles.addTo(myMap)
 
