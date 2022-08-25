@@ -10,8 +10,9 @@
 ## Intro 
 
 The scientists are funny people. They trying to flatten the earth again? 
-<a href="https://youtu.be/kIID5FDi2JQ" target="">Why all world maps are wrong?</a>   http://metrocosm.com/mercator/    
-http://thetruesize.com/             
+<a href="https://youtu.be/kIID5FDi2JQ" target="">Why all world maps are wrong?</a>   
+http://metrocosm.com/mercator/    
+https://www.thetruesize.com            
 
 
 ## Setup
