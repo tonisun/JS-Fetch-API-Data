@@ -1,10 +1,14 @@
 # Fetch the ISS API Data with JS
+
 ![](assets/images/colorful-wall_sm_tra.png)
+
 @author Toni Zeidler
 @since  2022-08-25
+
 <hr>
 
 ## Setup
+For later development of the project I initialize Node App, but it was not used in this project.
 
 ```bash
 npm init -y
