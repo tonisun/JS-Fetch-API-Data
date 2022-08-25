@@ -1,0 +1,20 @@
+{
+  "name": "js-fetch-api-data",
+  "version": "1.0.0",
+  "description": "![](assets/images/colorful-wall_sm_tra.png)\r @author Toni Zeidler\r @since  2022-08-25\r <hr>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonisun/JS-Fetch-API-Data.git"
+  },
+  "keywords": ["Fetch", "ISS", "API", "Data",  "JS", "Fetch API Data with JS"],
+  "author": "Toni Zeidler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonisun/JS-Fetch-API-Data/issues"
+  },
+  "homepage": "https://github.com/tonisun/JS-Fetch-API-Data#readme"
+}
