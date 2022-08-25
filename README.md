@@ -27,7 +27,7 @@ JS = JavaScript <a href="https://de.wikipedia.org/wiki/JavaScript" target="_blan
 
 ##### L
 <a href="https://leafletjs.com/" target="_blank">Leaflet</a> = an open-source JavaScript library
-for mobile-friendly interactive maps <a href="https://de.wikipedia.org/wiki/Leaflet" target="_blank">Wikipedia DE</a>
+for mobile-friendly interactive maps [<a href="https://de.wikipedia.org/wiki/Leaflet" target="_blank">Wikipedia DE</a>], [<a href="https://leafletjs.com/reference.html" target="_blank">Docs</a>]
 
 ##### U
 URL = Uniform Resource Locator <a href="https://de.wikipedia.org/wiki/Uniform_Resource_Locator" target="_blank">Wikipedia DE</a>
