@@ -11,9 +11,9 @@
 
 The scientists are funny people. They trying to flatten the earth again? 
 Why all world maps are wrong?
-<video width="1115px" height="627px" controls>
-  <source src="https://www.youtube-nocookie.com/embed/kIID5FDi2JQ" type="video/mp4">
-</video>
+<div class="ratio ratio-16x9">
+                        <iframe src="https://www.youtube.com/embed/kIID5FDi2JQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
 
 
 ## Setup
