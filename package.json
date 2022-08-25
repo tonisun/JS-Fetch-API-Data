@@ -2,7 +2,7 @@
   "name": "js-fetch-api-data",
   "version": "1.0.0",
   "description": "![](assets/images/colorful-wall_sm_tra.png)\r @author Toni Zeidler\r @since  2022-08-25\r <hr>",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
